@@ -1,4 +1,4 @@
-<h1> Adrine's AWS project - Static website hosing using S3 </h1>
+<h1> Adraine's AWS project - Static website hosing using S3 </h1>
 
 <p> S3 is the perfect function for this application as S3 can only host static not dynamic. 
 See the following steps that was taken into creating this bucket
@@ -24,3 +24,11 @@ See the following steps that was taken into creating this bucket
 ![image](https://github.com/user-attachments/assets/408c96fb-1c59-4bd3-8032-b3ed055622b1)
 
 
+<h1> POLICY</h1>
+
+![image](https://github.com/user-attachments/assets/0a02fb3f-6db7-4498-bd34-f9246236d4ce)
+
+
+<h1> HTML UPLOAD</h1>
+
+![image](https://github.com/user-attachments/assets/92821f01-8c7c-44a2-a2ec-e2cd16fc989c)

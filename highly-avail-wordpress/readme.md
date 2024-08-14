@@ -25,3 +25,18 @@ https://aws.amazon.com/blogs/compute/deploying-a-highly-available-wordpress-site
 </html>
 
 ![image](https://github.com/user-attachments/assets/7b930483-b8b2-4f27-ac1c-889bb38b9a29)
+
+
+<h1> Admin dashboard </h1>
+
+![wordpress page damin dashboard](https://github.com/user-attachments/assets/f1deaac3-df35-4061-961e-2b74290e9cca)
+
+
+<h1> Web </h1>
+
+![website sample page](https://github.com/user-attachments/assets/2f82f2ef-afa1-4cb7-bda8-b3a7ee1a8291)
+
+
+
+<h1>Part 2: Using Amazon S3 with WordPress to securely deliver media files</h1>
+<p>In this post, I will show you how to configure WordPress  to store shared media files (pictures, videos, etc) on Amazon Simple Storage Service (Amazon S3). Amazon S3 is a managed storage service that provides an affordable, performant, and secure method for storing all kinds of data.</p>

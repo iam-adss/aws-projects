@@ -39,4 +39,22 @@ https://aws.amazon.com/blogs/compute/deploying-a-highly-available-wordpress-site
 
 
 <h1>Part 2: Using Amazon S3 with WordPress to securely deliver media files</h1>
-<p>In this post, I will show you how to configure WordPress  to store shared media files (pictures, videos, etc) on Amazon Simple Storage Service (Amazon S3). Amazon S3 is a managed storage service that provides an affordable, performant, and secure method for storing all kinds of data.</p>
+<p>In this project, I will show you how to configure WordPress to store and shared media files (pictures, videos, etc) on Amazon Simple Storage Service (Amazon S3). Amazon S3 is a managed storage service that provides an affordable, performant, and secure method for storing all kinds of data. Its more favorable with end users due to its pricing and pay as you go system. The S3 is a perfect function as it can hose media files and securely deliver them</p>
+
+<p> My personal feedback about this lab is fairly tricky to work with specially the plug in. A lot of errors occured due which caused me to restart the project because I had an assumption that the reason why the Offload Media plugin could not connect to my s3 access key was diue to my IAM and S3 being in a different region. But i soon found out it wasnt the case </p>
+
+<p> Here are a list of problems that I tackled </p>
+<html>
+  <body>
+    <ol>
+      <li>Different regions on instance</li>
+      <li>Different region on Lighsail</li>
+        <li>Denied access on Offload Media due to no adding #AmazonS3FullAccess on my IAM user policy</li>
+    </ol>
+    
+  </body>
+
+  
+</html>![image](https://github.com/user-attachments/assets/7cc07357-e69e-4fe8-9115-646bb413a8a3)
+
+

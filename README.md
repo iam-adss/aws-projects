@@ -9,6 +9,7 @@ This repository will consist of all my AWS cloud projects that I have worked on 
       <li>https://github.com/iam-adss/aws-projects/tree/main/static-website-s3</li>
       <li>https://github.com/iam-adss/aws-projects/tree/main/highly-avail-wordpress/wp-lightsail-project1</li>
       <li>https://github.com/iam-adss/aws-projects/tree/main/highly-avail-wordpress/lightsail-wp-s3-project2</li>
+      <li> https://github.com/iam-adss/aws-projects/tree/main/highly-avail-wordpress/wp-cloudfront-project3</li>
         <li> Currently working on the next one.............. 💡👍 </li>
     </ol>
     

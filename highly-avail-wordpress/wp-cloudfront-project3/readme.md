@@ -15,4 +15,19 @@ This process speeds up response time, because the endpoint is usually closer to 
 
 <p> Cloud front has content that is cached meaning if you visit a website the endpoint contains cached contnent. If the requested content iss already cached in the Cloudfront there will be no need to connect to the sesrver. This will provide faster response because the endpoint is usually closer to the client than the actual server. </p>
 
-<h1> </h1>
+<p> Lab - https://aws.amazon.com/blogs/compute/deploying-a-highly-available-wordpress-site-on-amazon-lightsail-part-3-increasing-security-and-performance-using-amazon-cloudfront/ </p>
+
+<h1> Requesting a certficate </h1>
+
+<p> The goal now is to configure Cloudfront to work with my Lightsail wordpress but the following must be met</p>
+
+<p> We must first request a certificate from ACM</p>
+
+![image](https://github.com/user-attachments/assets/0851a597-1541-4ebf-94ae-92ff843afa85)
+
+ <p>But in order to request one we must first havea DNS (domain) and thats where we use Route53
+ 
+ Once I successfully obtain a certificate I can then configure from the wordpress to use the Cloudfront as destribution</p>
+
+![image](https://github.com/user-attachments/assets/71e73aa8-4fb5-43cf-a915-0af5501973d7)
+

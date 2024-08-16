@@ -44,7 +44,7 @@ This process speeds up response time, because the endpoint is usually closer to 
 
 <h1> Creating the SSL certificate</h1>
 
-<P> I personally had a hard time following up withj this as the lab was layout was svery different from the current AWS console. Even so after trial and error I was able to manage and create a SSL ceertificate </P>
+<P> I personally had a hard time following up with this as the lab was layout was svery different from the current AWS console. Even so after trial and error I was able to manage and create a SSL ceertificate </P>
 
 ![SSL certificate custom](https://github.com/user-attachments/assets/0e55db69-7cba-419a-be7b-159e43027491)
 

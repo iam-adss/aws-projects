@@ -11,7 +11,7 @@ This process speeds up response time, because the endpoint is usually closer to 
 
 ![diagram](https://github.com/user-attachments/assets/d2d833bd-807c-4127-8190-ee647219d1aa)
 
-<h1> Why use Cloudfront?</h1>
+<h1> Benefits of Cloudfront?</h1>
 
 <p> Cloud front has content that is cached meaning if you visit a website the endpoint contains cached contnent. If the requested content iss already cached in the Cloudfront there will be no need to connect to the sesrver. This will provide faster response because the endpoint is usually closer to the client than the actual server. </p>
 
@@ -25,9 +25,15 @@ This process speeds up response time, because the endpoint is usually closer to 
 
 ![image](https://github.com/user-attachments/assets/0851a597-1541-4ebf-94ae-92ff843afa85)
 
- <p>But in order to request one we must first havea DNS (domain) and thats where we use Route53
+ <p>But in order to request one we must first havea DNS (domain) and thats where I use Route53
+  
+ ![image](https://github.com/user-attachments/assets/b1b494c9-6f00-40eb-8921-0f33953164a8)
+
  
  Once I successfully obtain a certificate I can then configure from the wordpress to use the Cloudfront as destribution</p>
 
 ![image](https://github.com/user-attachments/assets/71e73aa8-4fb5-43cf-a915-0af5501973d7)
 
+<p> Once I completed the the following I was able to request a certificate in ACM and the to create a record in Route53 </p>
+
+![image](https://github.com/user-attachments/assets/4c2b17dc-b385-462b-a128-b3f0104a3c1c)

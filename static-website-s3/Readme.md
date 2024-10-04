@@ -1,15 +1,23 @@
-<h1> Adriane's AWS project - Static website hosting using S3 </h1>
+## Static Website Hosting Using S3
 
-<p> S3 is the perfect function for this application as S3 can only host static website not dynamic. 
+## Introduction
+
+S3 is the perfect function for this application as S3 can only host static website not dynamic. 
 See the following steps that was taken into creating this bucket
-</p>
 
+
+## Background
+Driven by my knack for knowledge I wanted to host a website using S3. The S3 function is great for storing image and video files in a website cloud architech as its the more common and favoured tool for the job
+
+## Tools I Used
+Amazon S3
+## Analysis
 <p> 
   1.Create a S3 bucket</p>
  <p> 2.Enable static website hosting on S3! </p>
 <p>3.Allow public access to your console and change under permissions tab </p>
 <p>4.Upload a POLICY for read access for everyone</p>
-<p>5.Create a HTML and add any iamge you desire for your website</p>
+<p>5.Create a HTML and add any image you desire for your website</p>
 
 
 <h1> Website </h1>
@@ -36,3 +44,6 @@ See the following steps that was taken into creating this bucket
 <h1> HTML UPLOAD</h1>
 
 ![image](https://github.com/user-attachments/assets/92821f01-8c7c-44a2-a2ec-e2cd16fc989c)
+
+## What I Learned 
+I learned that S3 is not just a simple storage. It also offers security, data availability, performance and a very amazing scalability service. You can use Amazon S3 to store and retrieve any amount of data at any time, from anywhere.

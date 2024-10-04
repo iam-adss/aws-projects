@@ -1,4 +1,4 @@
-<h1> Adriane's AWS project - Static website hosing using S3 </h1>
+<h1> Adriane's AWS project - Static website hosting using S3 </h1>
 
 <p> S3 is the perfect function for this application as S3 can only host static website not dynamic. 
 See the following steps that was taken into creating this bucket
@@ -13,15 +13,17 @@ See the following steps that was taken into creating this bucket
 
 
 <h1> Website </h1>
-<p> Static website example and hosted using a s3 bucket</p>
+
 
 
 ![image](https://github.com/user-attachments/assets/8e1c74cb-a3dd-45c7-a932-389dfd6a2537)
 
 
+*Static website example and hosted using a s3 bucket*
+
 <h1> Layout</h1>
 
-<p> Atchitech layout using images and html text to upload into the bucket </p>
+<p> Architech layout using images and html text to upload into the bucket </p>
 
 ![image](https://github.com/user-attachments/assets/408c96fb-1c59-4bd3-8032-b3ed055622b1)
 

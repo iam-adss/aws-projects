@@ -5,7 +5,7 @@ In this repository I will showcase my experience with AWS Cloud Computing throug
 
 🔎 For more info about the projects see it here
 
- [Higly Available Wordpress Website 4-part](/highly-avail-wordpress/readme.md)
+ [Highly Available Wordpress Website 4-part](/highly-avail-wordpress/readme.md)
 
   [Stastic S3 Website Hosting](/static-website-s3/Readme.md)
 
